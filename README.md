@@ -1,3 +1,3 @@
 devel
 =====
-Premier readme dans le premier depo.
+Premier readme dans le premier repo.
